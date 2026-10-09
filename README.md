@@ -70,4 +70,4 @@ I worked with the supervising PhD student on PCG signal acquisition and demodula
 | :---: | :---: |
 | ![High-frequency PCG signal spectrum](images/pcg-high-frequency-spectrum.png) | ![Recovered PCG waveform](images/pcg-recovered-waveform.png) |
 
-[Recovered heart-sound audio (.wav)](audio/pcg-recovered-heart-sound.wav)
+[Listen to the recovered heart sound](https://kohaeyo.github.io/fm-adc-pcb-portfolio/audio/audio.html)
