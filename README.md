@@ -3,6 +3,7 @@
 **PCB layout, fabrication, assembly, and testing | UC San Diego**
 
 ![Assembled PCG PCB prototype](images/pcb-assembled-cover.png)
+
 *Assembled PCG PCB (Rev 3).*
 
 I worked on phonocardiogram (PCG) and electrocardiogram (ECG) sensing prototypes as part of an electrical engineering research project. My work focused on PCB layout, fabrication preparation, assembly, testing, and hardware revisions.
@@ -18,6 +19,7 @@ The later PCG layout shown below uses a **22 mm x 22 mm, two-layer octagonal PCB
 | ![Altium PCG top-layer layout](images/pcg-layout-top.png) | ![Altium PCG bottom-layer layout](images/pcg-layout-bottom.png) |
 
 ![Underside of the PCG sensor board](images/pcg-sensor-bottom.png)
+
 *Underside of the PCG PCB, showing the body-facing sensor.*
 
 ### ECG PCB Layout
@@ -57,6 +59,7 @@ I tested the assembled prototypes using an adjustable DC bench power supply, osc
 The circuit changes were developed collaboratively within the research group. Once the changes were decided, I updated the PCB layouts, assembled the revised boards, and tested them.
 
 ![Later assembled PCG prototype](images/pcg-later-assembled.png)
+
 *Later assembled PCG prototype with its connector installed.*
 
 ## PCG Signal Recovery
